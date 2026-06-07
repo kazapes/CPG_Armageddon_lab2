@@ -1,17 +1,15 @@
 # CPG_Armageddon_lab2
 Armageddon lab2
 
-![image.png](attachment:48a9f235-cd91-4b07-9b0b-39a40ffe1890:image.png)
-
 #### 05/09/2026
 
-Redo image did not populate
+![image.png](https://github.com/kazapes/CPG_Armageddon_lab2/blob/2b2db7833f4772c6173fe5192c514cfb51c72088/Screenshot%202026-05-09%20201841.png)
 
-![image.png](attachment:c73364bb-6ceb-4579-93d6-696cba299e54:image.png)
+![image.png](https://github.com/kazapes/CPG_Armageddon_lab2/blob/2b2db7833f4772c6173fe5192c514cfb51c72088/Screenshot%202026-05-09%20201935.png)
 
-![image.png](attachment:b6f66bdf-b01c-4351-930d-9924826c8903:image.png)
+![image.png](https://github.com/kazapes/CPG_Armageddon_lab2/blob/2b2db7833f4772c6173fe5192c514cfb51c72088/Screenshot%202026-05-09%20202048.png)
 
-![image.png](attachment:35d3bb4f-ef60-4c02-b7c4-5b4ce2ce5e61:image.png)
+![image.png](https://github.com/kazapes/CPG_Armageddon_lab2/blob/2b2db7833f4772c6173fe5192c514cfb51c72088/Screenshot%202026-05-09%20202100.png)
 
 #!/bin/bash
 
