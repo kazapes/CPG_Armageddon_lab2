@@ -11,6 +11,8 @@ Armageddon lab2
 
 ![image.png](https://github.com/kazapes/CPG_Armageddon_lab2/blob/2b2db7833f4772c6173fe5192c514cfb51c72088/Screenshot%202026-05-09%20202100.png)
 
+![image.png](https://github.com/kazapes/CPG_Armageddon_lab2/blob/2b2db7833f4772c6173fe5192c514cfb51c72088/Screenshot%202026-05-09%20202813.png)
+
 #!/bin/bash
 
 # 1. Update system and install Apache
